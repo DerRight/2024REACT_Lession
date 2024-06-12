@@ -1,6 +1,6 @@
 import './App.css';
-import MyRGBPanel from './components/MyRGBPanel';
-import MyCalculator from './components/MyCalculator';
+import MyRGBPanel from './components/rgb-panel/MyRGBPanel';
+import MyCalculator from './components/calculator/MyCalculator';
 
 function App() {
   return (
