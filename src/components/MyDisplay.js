@@ -1,10 +1,10 @@
 import React from "react";
 import './calculator.css';
 
-function MyDisplay() {
-    return(
+function MyDisplay(props) {
+    return (
         <div className="display">
-            <p>計算機面板</p>
+            {props.result}
         </div>
     );
 }
