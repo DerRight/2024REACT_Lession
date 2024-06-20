@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/2024REACT_Lession/static/css/main.f855e6bc.css",
-    "main.js": "/2024REACT_Lession/static/js/main.52d0a4cf.js",
-    "static/js/453.974138f6.chunk.js": "/2024REACT_Lession/static/js/453.974138f6.chunk.js",
-    "index.html": "/2024REACT_Lession/index.html",
-    "main.f855e6bc.css.map": "/2024REACT_Lession/static/css/main.f855e6bc.css.map",
-    "main.52d0a4cf.js.map": "/2024REACT_Lession/static/js/main.52d0a4cf.js.map",
-    "453.974138f6.chunk.js.map": "/2024REACT_Lession/static/js/453.974138f6.chunk.js.map"
+    "main.css": "/my-react-app/static/css/main.1fad0a2e.css",
+    "main.js": "/my-react-app/static/js/main.d886b89f.js",
+    "static/js/453.ad6eb26e.chunk.js": "/my-react-app/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/my-react-app/index.html",
+    "main.1fad0a2e.css.map": "/my-react-app/static/css/main.1fad0a2e.css.map",
+    "main.d886b89f.js.map": "/my-react-app/static/js/main.d886b89f.js.map",
+    "453.ad6eb26e.chunk.js.map": "/my-react-app/static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.52d0a4cf.js"
+    "static/css/main.1fad0a2e.css",
+    "static/js/main.d886b89f.js"
   ]
 }
