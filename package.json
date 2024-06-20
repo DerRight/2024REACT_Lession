@@ -1,5 +1,5 @@
 {
-  "name": "my-react-app",
+  "name": "2024react_lession",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -38,5 +38,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://chendh.github.io/my-react-app"
+  "homepage": "https://derright.github.io/2024REACT_Lession"
 }
